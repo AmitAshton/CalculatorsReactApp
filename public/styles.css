@@ -1,0 +1,40 @@
+.font{
+    font-family: 'Kalam';
+}
+
+label{
+    padding-right: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.BMIp{
+    font-size: 60px;
+    text-align: center;
+}
+
+.higher-line{
+    line-height: 3;
+    font-size: 20px;
+}
+
+
+.homep{
+    font-size: 25px;
+}
+
+.bmip{
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.high{
+    line-height: 2;
+}
+
+.margin{
+    margin: 5px;
+}
+
+
+
